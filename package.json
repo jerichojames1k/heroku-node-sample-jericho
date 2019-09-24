@@ -20,6 +20,7 @@
     "url": "https://github.com/jerichojames1k/heroku_node-sample-groupb/issues"
   },
   "homepage": "https://github.com/jerichojames1k/heroku_node-sample-groupb#readme",
+  },
   "dependencies": {
     "express": "^4.17.1"
   }
