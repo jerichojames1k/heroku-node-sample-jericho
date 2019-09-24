@@ -1,0 +1,26 @@
+{
+  "name": "heroku_node-sample-groupb",
+  "version": "1.0.0",
+  "description": "A sample Node app deploy to Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerichojames1k/heroku_node-sample-groupb.git"
+  },
+  "keywords": [
+    "heroku",
+    "node"
+  ],
+  "author": "jerichojames",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerichojames1k/heroku_node-sample-groupb/issues"
+  },
+  "homepage": "https://github.com/jerichojames1k/heroku_node-sample-groupb#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
