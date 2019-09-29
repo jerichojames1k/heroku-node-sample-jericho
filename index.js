@@ -18,7 +18,6 @@ io.on('connection', function(socket){
   });
 
   socket.on('user login', function(msg){
-     console.log(users);
    if (!users.includes(msg.name)){
       users.push(msg.name);
      io.emit('user login', users);
