@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "A sample Node app deploy to Heroku",
   "main": "index.js",
- 
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jerichojames1k/heroku_node-sample-groupb.git"
@@ -19,14 +18,13 @@
   },
   "homepage": "https://github.com/jerichojames1k/heroku_node-sample-groupb#readme",
   "engines": {
-    "node":"10.16"
+    "node": "10.16"
   },
   "dependencies": {
     "express": "^4.17.1",
-    "socket.io": "^1.7.3"
+    "socket.io": "^1.7.4"
   },
   "scripts": {
     "start": "node index.js"
   }
-
 }

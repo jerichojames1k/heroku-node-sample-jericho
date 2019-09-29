@@ -250,6 +250,7 @@ html, body {
   .Ouser {
     width: 100%;
     padding:10px;
+    margin-top: 0;
     padding-top: 5px;
     padding-bottom: 5px;
     margin-right: 0;
@@ -292,6 +293,8 @@ html, body {
   
   #active {
     height: 100%;
+    margin-top: 0px;
+    padding-top: 0px;
     border-left:1px solid #0a89f7;
     overflow: auto;
     background-color: #b5e3f7;
