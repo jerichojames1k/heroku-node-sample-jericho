@@ -41,8 +41,6 @@ io.on('connection', function(socket){
     io.emit('oldmessages', {sender: data, messages: oldmessages} );
   });
 
- 
-
 });
 
 http.listen(port, function(){
